@@ -23,4 +23,7 @@ Github issues 페이지로 여러차례 회의를 진행해본 결과, 공유나
 - 따라서 매주 팀원 개인별 역할에 따라 회의 내용과 질문을 이슈탭에 기록하여 다같이 토론하고 보완합니다. 
 
 
+![community1](https://user-images.githubusercontent.com/55980214/99897193-d1d7b700-2cda-11eb-83d4-b1695ce0ceaf.JPG)
+![community3](https://user-images.githubusercontent.com/55980214/99897196-d308e400-2cda-11eb-9f44-886c005fa73b.JPG)
+![community2](https://user-images.githubusercontent.com/55980214/99897197-d308e400-2cda-11eb-8040-b56f6254d9b5.JPG)
 

@@ -37,6 +37,6 @@ python 설치 후 freegames library는 아래 그림의 명령어를 cmd창에�
 #### 6. 게임 클리어 화면
 ![image1](https://raw.githubusercontent.com/20-2-SKKU-OSS/2020-2-OSS-9/main/Image/sudoku3.JPG)<br>
 #### 7. 플레이 화면(1)
-![image1](https://raw.githubusercontent.com/20-2-SKKU-OSS/2020-2-OSS-9/main/Image/sudoku4.JPG)<br>
+![image1](https://raw.githubusercontent.com/20-2-SKKU-OSS/2020-2-OSS-9/main/Image/sudoku4.gif)<br>
 #### 8. 플레이 화면(2)
-![image1](https://raw.githubusercontent.com/20-2-SKKU-OSS/2020-2-OSS-9/main/Image/sudoku5.JPG)<br>
+![image1](https://raw.githubusercontent.com/20-2-SKKU-OSS/2020-2-OSS-9/main/Image/sudoku5.gif)<br>

@@ -25,12 +25,4 @@ Tiles -- 미닫이 놀이를 퍼즐로 맞추는 게임. 빈 사각형에 인접
 ![tiles](https://user-images.githubusercontent.com/55980214/99898826-de164100-2ce7-11eb-844a-4a3bd93618d7.JPG)
 
 
-**Connect**
-Connect -- 행을 클릭하면 디스크를 삭제할 수 있습니다. 4개의 디스크를 수직, 수평 또는 대각선으로 연결한 첫 번째 플레이어가 승리합니다. 
-![connect](https://user-images.githubusercontent.com/55980214/99898827-deaed780-2ce7-11eb-9bfb-63e5737ab7d9.JPG)
-
-
-**Pacman**
-Pacman -- 고전 아케이드 게임. 화살표 키를 사용하여 모든 흰 음식을 탐색하고 먹습니다. 미로를 배회하는 붉은 귀신을 조심하세요.
-![pacman](https://user-images.githubusercontent.com/55980214/99898828-deaed780-2ce7-11eb-8a89-13157baab231.JPG)
 

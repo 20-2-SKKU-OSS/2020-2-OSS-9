@@ -1,5 +1,4 @@
 # OSS-9's Project : `Free-python-games`
-![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)<br>
 [&#9989;GO STATIC PAGE](https://20-2-skku-oss.github.io/2020-2-OSS-9/)<br>
 [&#9989;GO Free-python-games](https://github.com/20-2-SKKU-OSS/free-python-games)
 ###### 우리의 프로젝트에 관한 더 많은 정보를 원하신다면 [STATIC PAGE](https://20-2-skku-oss.github.io/2020-2-OSS-9/)로 방문해주세요.<br>
